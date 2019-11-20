@@ -19,6 +19,7 @@ for (var k in defaultOptions)
     localStorage[k] = defaultOptions[k]
 
 
+
 function loadOptions() {
   var o = {}
   for (var k in defaultOptions) o[k] = localStorage[k]
