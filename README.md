@@ -1,6 +1,6 @@
 # Scrollbar Anywhere
 
-An extension for Google Chrome that makes it possible to to scroll pages as if the scrollbar was right under your pointer. i am in the process of make it functional for atom as a package in the future, any help is welcome.
+An extension for Google Chrome that makes it possible to to scroll pages as if the scrollbar was right under your pointer. i am in the process of make it functional for Atom as a package in the future, any help is welcome.
 
 If you want grab-and-drag style scrolling, just set it up in the options.
 
